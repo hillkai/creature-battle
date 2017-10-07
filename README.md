@@ -1,2 +1,2 @@
 # creature-battle
-This object-oriented project lets the user battle four different creatures against each other to find the ultimate winner. 
+Creature Battle: This program uses inheritance and polymorphism to battle two creatures against each other. In this game you start with zero dollars and buying creatures puts you into debt. The goal of the game is to try to battle the right amount of creature to get out of debt. If all your creatures finish battling and you have more than 0 dollars, then you win, if you have less than zero, then you lose. To run game, just use make and then run a.out.
